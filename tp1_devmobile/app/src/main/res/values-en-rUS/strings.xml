@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">TP1</string>
+        <string name="titre_detail_eleve">Student Details</string>
+        <string name="prenom">First Name: </string>
+        <string name="nom">Last Name:</string>
+        <string name="nom_in">Enter your last name</string>
+        <string name="input1">Enter your first name</string>
+
+        <string name="adresse">Address:</string>
+        <string name="tel">Phone:</string>
+        <string name="git">Computer Engineering and Telecom</string>
+        <string name="date_in">Enter your birth date</string>
+        <string name="date">Birth Date: </string>
+        <string name="filiere_in">Your field of study</string>
+        <string name="filiere">Field of Study: </string>
+        <string name="promotion_in">Promotion number</string>
+        <string name="promotion">Promotion: </string>
+        <string name="annee_in">School year</string>
+        <string name="annee">Year: </string>
+        <string name="sujet_in">Certification subject</string>
+        <string name="sujet">Subject: </string>
+        <string name="prenomen_in">Supervisors first name</string>
+        <string name="prenomen">First Name: </string>
+        <string name="nomen_in">Supervisors last name</string>
+        <string name="nomen">Last Name: </string>
+        <string name="formation">Education </string>
+        <string name="encadrement">Supervision </string>
+        <string name="enregistrement">Save </string>
+    </resources>
+

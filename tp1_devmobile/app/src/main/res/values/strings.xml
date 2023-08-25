@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="titre_detail_eleve">Details eleve</string>
+    <string name="prenom">Prenom : </string>
+    <string name="nom">Nom:</string>
+    <string name="nom_in">Entrez votre nom </string>
+    <string name="input1">Entrer votre prenom </string>
+
+    <string name="adresse">Adresse :</string>
+    <string name="tel">Telephone :</string>
+    <string name="git">Genie informatique et télécom</string>
+    <string name="date_in">Entrer votre date naissance</string>
+    <string name="date">Date Naissance : </string>
+    <string name="filiere_in">nom de votre filiere</string>
+    <string name="filiere">Filiere : </string>
+    <string name="promotion_in">numero de promotion</string>
+    <string name="promotion">Promotion : </string>
+    <string name="annee_in">annee scolaire</string>
+    <string name="annee">Annee : </string>
+    <string name="sujet_in">Sujet certification</string>
+    <string name="sujet">Sujet : </string>
+    <string name="prenomen_in">prenom encadreur</string>
+    <string name="prenomen">Prenom : </string>
+    <string name="nomen_in">nom encadreur</string>
+    <string name="nomen">nom : </string>
+    <string name="formation">Formation </string>
+    <string name="encadrement">Encadrement </string>
+    <string name="enregistrement">Enregistrer </string>
+
+
+</resources>
